@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+* {
+  font-family: Telenor;
+}
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -5107,3 +5111,52 @@ img.fr-rounded {
   @media (max-width: 767px) {
     #servicecatalog-show {
       padding: 15px; } }
+
+@font-face {
+  font-family: 'Telenor';
+  src: url('https://assets.website-files.com/5c8b950452dcbc512caa410c/5c8ba20e52dcbcdf6caa5886_Telenor-BoldItalic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Telenor';
+  src: url('https://assets.website-files.com/5c8b950452dcbc512caa410c/5c8ba20e8bdcd368dd15985b_Telenor-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Telenor';
+  src: url('https://assets.website-files.com/5c8b950452dcbc512caa410c/5c8ba20e52dcbc4714aa5887_Telenor-MediumItalic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Telenor';
+  src: url('https://assets.website-files.com/5c8b950452dcbc512caa410c/5c8ba20ef539ee6789779c7f_TelenorLight-Italic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Telenor';
+  src: url('https://assets.website-files.com/5c8b950452dcbc512caa410c/5c8ba20d52dcbc971daa5884_Telenor-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Telenor';
+  src: url('https://assets.website-files.com/5c8b950452dcbc512caa410c/5c8ba20e52dcbc2925aa5888_TelenorLight.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Telenor';
+  src: url('https://assets.website-files.com/5c8b950452dcbc512caa410c/5c8ba20ee9c13eb709e06bc9_Telenor.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Telenor';
+  src: url('https://assets.website-files.com/5c8b950452dcbc512caa410c/5c8ba20e4466ba16412bbc7b_Telenor-Italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
