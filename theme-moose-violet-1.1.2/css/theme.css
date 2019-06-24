@@ -2857,7 +2857,6 @@ input[type="checkbox"] {
   .topbar .welcome {
     display: none; }
   .topbar.topbar--with-image {
-    background: url(https://theme.zdassets.com/theme_assets/1281227/9bc21a909315816f2df76e8c3dc955ccca7be880.jpg) no-repeat center;
     background-size: cover;
     position: relative;
     z-index: 2; }
