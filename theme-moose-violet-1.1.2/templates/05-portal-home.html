@@ -1,9 +1,9 @@
-{% assign custom_blocks_enabled = true %}
+{% assign custom_blocks_enabled = false %}
 {% assign category_list_enabled = true %}
-{% assign category_tree_enabled = true %}
-{% assign recent_articles_enabled = true %}
-{% assign popular_posts_enabled = true %}
-{% assign recent_articles_and_posts_enabled = true %}
+{% assign category_tree_enabled = false %}
+{% assign recent_articles_enabled = false %}
+{% assign popular_posts_enabled = false %}
+{% assign recent_articles_and_posts_enabled = false %}
 {% assign freshservice_enabled = false %}
 
 <div class="container" data-home-page>
@@ -76,7 +76,7 @@
           <h3 class="announcements-list__title text-center">{% translate portal.announcements %}</h3>
           <ul class="row announcements-list__list">
             {% for topic in portal.recent_popular_topics limit:6 %}
-            <li class="column column--sm-4 announcements-list-item"> 
+            <li class="column column--sm-4 announcements-list-item">
               <a class="announcements-list-item__title" href="{{topic.url}}">{{topic.title | h}}</a>
               {% if topic.first_post.body != blank %}
               <p class="announcements-list-item__excerpt meta">
