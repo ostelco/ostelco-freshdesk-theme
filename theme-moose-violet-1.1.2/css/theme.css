@@ -776,7 +776,7 @@ a#ticket-export-button,
 .topic-callout__buttons a,
 .readmore-js-toggle {
   color: #fff !important;
-  background-color: #ff8427 !important;
+  background-color: rgb(255, 56, 125) !important;
   border-color: transparent !important; }
   .btn:hover, .btn:focus, .btn:active,
   .btn-default:hover,
@@ -1970,10 +1970,10 @@ input[type="checkbox"] {
     display: block;
     max-height: 40px !important; }
   .logo svg use {
-    fill: #ff8427; }
+    fill: rgb(255, 56, 125); }
 
 .topbar--small .logo svg use {
-  fill: #ff8427; }
+  fill: rgb(255, 56, 125); }
 
 #user-menu {
   margin: 0 !important;
@@ -2310,8 +2310,8 @@ input[type="checkbox"] {
     -ms-flex-negative: 0;
         flex-shrink: 0;
     color: #fff !important;
-    background-color: #ff8427 !important;
-    border-color: #ff8427 !important;
+    background-color: rgb(255, 56, 125) !important;
+    border-color: rgb(255, 56, 125) !important;
     text-transform: capitalize; }
     .search-box--hero-unit .hc-search-button [type="submit"]:hover, .search-box--hero-unit .hc-search-button [type="submit"]:focus, .search-box--hero-unit .hc-search-button [type="submit"]:active {
       color: #e0e0e0 !important;
@@ -2609,13 +2609,13 @@ input[type="checkbox"] {
   stroke: rgb(47, 22, 232); }
 
 .icon-color-stroke-secondary {
-  stroke: #ff8427; }
+  stroke: rgb(255, 56, 125); }
 
 .icon-color-fill-primary {
   fill: rgb(47, 22, 232); }
 
 .icon-color-fill-secondary {
-  fill: #ff8427; }
+  fill: rgb(255, 56, 125); }
 
 .icon-color-fill {
   fill: #f8f8f8; }
@@ -2678,7 +2678,7 @@ input[type="checkbox"] {
 
 .footer-submit-ticket__btn {
   font-size: 16px;
-  background-image: linear-gradient(104deg, #ff8427, #f36900); }
+  background-image: linear-gradient(104deg, rgb(255, 56, 125), #f36900); }
   .footer-submit-ticket__btn:hover {
     background-image: linear-gradient(104deg, #f36900, #da5e00); }
 
@@ -2778,7 +2778,7 @@ input[type="checkbox"] {
   .footer-social-link + .footer-social-link {
     margin-left: 5px; }
   .footer-social-link:hover {
-    color: #ff8427; }
+    color: rgb(255, 56, 125); }
 
 .copyright {
   padding: 0 !important;
@@ -3420,7 +3420,7 @@ a[href="/signup"] {
     display: none; }
   .recent-articles-item .fa-star {
     margin-right: 6px;
-    color: #ffa15a;
+    color: rgb(255, 56, 125);
     font-size: 14px; }
 
 .popular-posts {
@@ -3725,7 +3725,7 @@ a[href="/signup"] {
     text-decoration: none;
     background-color: rgb(47, 22, 232); }
     .category-list-item__link:active .category-list-item__title, .category-list-item__link:focus .category-list-item__title, .category-list-item__link:hover .category-list-item__title {
-      color: #ff8427; }
+      color: rgb(255, 56, 125); }
     .category-list-item__link:active .meta, .category-list-item__link:focus .meta, .category-list-item__link:hover .meta {
       color: #fff; }
   @media (min-width: 768px) {
@@ -4655,7 +4655,7 @@ img.fr-rounded {
 
 .forum-buttons a.btn-small {
   color: #fff !important;
-  background-color: #ff8427 !important;
+  background-color: rgb(255, 56, 125) !important;
   border-color: transparent !important; }
   .forum-buttons a.btn-small:hover, .forum-buttons a.btn-small:focus, .forum-buttons a.btn-small:active {
     color: #e0e0e0 !important;
@@ -4785,7 +4785,7 @@ img.fr-rounded {
 
 .topic-callout__buttons a {
   color: #fff !important;
-  background-color: #ff8427 !important;
+  background-color: rgb(255, 56, 125) !important;
   border-color: transparent !important; }
   .topic-callout__buttons a:hover, .topic-callout__buttons a:focus, .topic-callout__buttons a:active {
     color: #e0e0e0 !important;
@@ -4971,7 +4971,7 @@ img.fr-rounded {
 
 .readmore-js-toggle {
   color: #fff !important;
-  background-color: #ff8427 !important;
+  background-color: rgb(255, 56, 125) !important;
   border-color: transparent !important; }
   .readmore-js-toggle:hover, .readmore-js-toggle:focus, .readmore-js-toggle:active {
     color: #e0e0e0 !important;
