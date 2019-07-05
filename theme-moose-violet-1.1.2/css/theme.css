@@ -2770,7 +2770,7 @@ input[type="checkbox"] {
 
 @media (min-width: 768px) {
   .footer-container__col--social-links {
-    text-align: right;
+    text-align: center;
     vertical-align: middle; } }
 
 .footer-social-link {
